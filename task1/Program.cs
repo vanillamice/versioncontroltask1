@@ -2,7 +2,7 @@
 
 using System;
 
-class HelloWorld
+class HelloSwift
 {
     static void Main(string[] args)
     {
